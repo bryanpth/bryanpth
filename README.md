@@ -2,7 +2,7 @@
 <!-- Header -->
 <h3 align="center">
         <samp>&gt; Hello World, I am
-                <b><a>Bryan Pothon</a></b>
+                <b><a href="https://github.com/bryanpth">Bryan Pothon</a></b>
         </samp>
 </h3>
 
@@ -21,8 +21,12 @@
 
 <!-- Socials -->
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin" />
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://www.linkedin.com/in/bryan-pothon" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://twitter.com/devBryan_" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </div>
 
 #
@@ -40,7 +44,7 @@
     </div>
     <!-- Tools -->
     <div>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code"  />
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"  />
+       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code"  />
+       <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"  />
   </div>
 </div>
